@@ -297,7 +297,7 @@ Run start.sh as container entrypoint
 ## Run the Container
 You must pass your Gemini API key as an environment variable:
 
-docker run -p 8501:8501 -p 8001:8001 -e KEY_VARIABLE="<>" conciergex_app
+docker run -p 8501:8501 -e KEY_VARIABLE="<>" conciergex_app
 
 
 
