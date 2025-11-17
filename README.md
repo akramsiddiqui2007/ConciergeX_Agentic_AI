@@ -19,7 +19,7 @@ This project demonstrates multi-agent orchestration, tool-calling, memory usage,
 
 ---
 
-## Architecture Diagram (Mermaid)
+## Architecture Diagram 
 
 ```mermaid
 flowchart TD
